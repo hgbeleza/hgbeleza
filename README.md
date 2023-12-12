@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###   Linguagens
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,js,ts,html,css" />
+###   Languages
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,js,html,css" />
 
-####   Ferramentas de desenvolvimento
-<img src="https://skillicons.dev/icons?i=git,docker,visualstudio,vscode,postman" />
+####   Dev tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,postman" />
 
 <br>
 <br>
