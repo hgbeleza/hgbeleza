@@ -3,7 +3,7 @@
 ###   Languages
 <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,js,html,css" />
 
-####   Dev tools
+###   Dev tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,postman" />
 
 <br>
