@@ -9,7 +9,7 @@ Backend developer
 i love code
 
 * 🌍  I'm based in Brasil
-* 🧠  I'm learning Reacjt
+* 🧠  I'm learning c#
 * 🤝  I'm open to collaborating on other projects
 
 ### Skills
