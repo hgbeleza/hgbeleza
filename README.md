@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-i love code
+<a href="https://main--belezza.netlify.app">My portfolio</a>
 
 * 🌍  I'm based in Brasil
 * 🧠  I'm learning c#
