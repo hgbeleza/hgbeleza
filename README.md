@@ -4,7 +4,7 @@ Welcome to my repository.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,html,css,javascript,linux,docker,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,linux,docker" />
   </a>
 </p>
 
