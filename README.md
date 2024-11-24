@@ -1,6 +1,10 @@
-# Hi, i'm Higor Beleza 
+# Hi there 👋
 
-Welcome to my repository.
+I'm Higor Beleza, I am pursuing a degree in Systems Analysis and Development.
+
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
 
 <p>
   <a href="https://skillicons.dev">
