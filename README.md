@@ -8,7 +8,7 @@ These are some of the technologies and tools that I work with:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,postgres,java,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,java,nodejs,angular" />
   </a>
 </p>
 
